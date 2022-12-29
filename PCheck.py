@@ -42,3 +42,4 @@ if type == 2:
 			print(f"Port {port} is " + c.RED + "closed" + c.RESET + f" on {IP}")
 		if "open" in r.text:
 			print(f"Port {port} is " + c.GREEN + "opened" + c.RESET + f" on {IP}")
+# Do'nt forget star my project xD
